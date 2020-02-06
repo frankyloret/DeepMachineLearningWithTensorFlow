@@ -1,0 +1,25 @@
+{
+  "name": "deep-machine-learning-with-tensor-flow",
+  "version": "0.0.0",
+  "description": "Deep Machine Learning with TensorFlow",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "Franky Loret",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International License",
+  "dependencies": {},
+  "devDependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-zooming": "^1.1.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankyloret/DeepMachineLearningWithTensorFlow"
+  },
+  "bugs": {
+    "url": "https://github.com/frankyloret/DeepMachineLearningWithTensorFlow/issues"
+  },
+  "homepage": "https://github.com/frankyloret/DeepMachineLearningWithTensorFlow#readme"
+}

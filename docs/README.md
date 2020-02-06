@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Deep Learning with TensorFlow
 
 ## Introduction to Machine Learning
@@ -21,15 +24,6 @@ There are basically three learning paradigms that will be briefly discusses:
 ## Supervised learning
 
 Supervised learning is an automatic learning task. It is based on a number of preclassified examples, in which the category of each of the inputs used as examples, should belong. In this case, the crucial issue is the problem of generalization. After the analysis of a sample of examples, the system should produce a model that should work well for all possible inputs.
-
-
-
-
-
-
-
-
-
 
 
 
