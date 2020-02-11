@@ -4,12 +4,10 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Company', link: 'https://www.vives.be' },
+      { text: 'VIVES', link: 'https://www.vives.be' },
       { text: 'License', link: '/LICENSE.md' },
     ],
-    sidebar: [
-      ['/', 'Home'],
-    ],
+    sidebar: [['/', 'Home'], ['/first-look-at-tensorflow/', 'First Look at TensorFlow']],
     repo: 'https://github.com/frankyloret/DeepMachineLearningWithTensorFlow',
     docsDir: 'docs',
     docsBranch: 'master'

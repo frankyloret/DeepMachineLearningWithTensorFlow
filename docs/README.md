@@ -17,13 +17,21 @@ Learning theory uses mathematical tools that are derived from **probability theo
 
 There are basically three learning paradigms that will be briefly discusses:
 
-* Supervised learning
-* Unsupervised learning
-* Learning with reinforcement
+* [Supervised learning](#supervised_learning)
+* [Unsupervised learning](#unsupervised_learning)
+* [Learning with reinforcement](#learning_with_reinforcement)
 
-## Supervised learning
+## <a name="supervised_learning"></a>Supervised learning
 
 Supervised learning is an automatic learning task. It is based on a number of preclassified examples, in which the category of each of the inputs used as examples, should belong. In this case, the crucial issue is the problem of generalization. After the analysis of a sample of examples, the system should produce a model that should work well for all possible inputs.
+
+The set consists of labeled data, that is, objects and their associated classes. This set of labeled examples, therefore, constitutes the training set.
+
+Most of the supervised learning algorithms share one characteristic: the training is performed by the minimization of a particular loss or cost function, representing the output error provided by the system with respect to the desired possible output, because the training set provides us with what must be the desired output.
+
+The system then changes its internal editable parameters, the weights, to minimize this error function. The goodness of the model is evaluated, providing a second set of labeled examples (the test set), evaluating the percentage of correctly classified examples and the percentage of misclassified examples.
+
+The supervised learning context includes the classifiers, but also the learning of functions that predict numeric values. This task is the **regression**. In a regression problem, the training set is a pair formed by an object and the associated numeric value. There are several supervised learning algorithms that have been developed for classification and regression. These can be grouped into the formula used to represent the classifier or the learning predictor, among all, decision trees, decision rules, neural networks and Bayesian networks.
 
 
 
