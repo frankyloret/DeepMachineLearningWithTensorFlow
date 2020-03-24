@@ -169,7 +169,7 @@ In **figuur 5** worden enkele activeringsfuncties voorgesteld:
 * c: sigmoïdefunctie met waarden tussen 0 en 1
 * d: sigmoïdefunctie met waarden tussen -1 en 1
 
-![Figuur 5: voorbeelden van activeringsfuncties](./assets/images/activation_functions.png "Figuur 5: voorbeelden van activeringsfuncties")
+![Figuur 5: voorbeelden van activeringsfuncties](./assets/images/activation.png "Figuur 5: voorbeelden van activeringsfuncties")
 
 <p align="center">Figuur 5: voorbeelden van activeringsfuncties</p>
 
