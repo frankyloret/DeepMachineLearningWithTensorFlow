@@ -62,7 +62,7 @@ Uiteindelijk kan een neuraal netwerk worden vergeleken met een samengestelde fun
 
 Het is handig om een neuraal netwerk voor te stellen als een Computational Graph (computergrafiek), dat wil zeggen, in termen van gegevens die door het netwerk stromen.
 
-![Figuur 2: het neurale netwerk voorgesteld als een Computational Graph](./assets/images/NeuralNetwork_ComputationalGraph.png "Figuur 2: een neuraal netwerk voorgesteld als Computational Graph")
+![Figuur 2: het neurale netwerk voorgesteld als een Computational Graph](./assets/images/computational_graph.png "Figuur 2: een neuraal netwerk voorgesteld als Computational Graph")
 
 Figuur 2: het neurale netwerk voorgesteld als Computational Graph
 
