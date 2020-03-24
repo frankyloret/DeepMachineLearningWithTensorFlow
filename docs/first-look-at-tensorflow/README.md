@@ -40,7 +40,7 @@ Dit is een grafiek die bestaat uit het volgende:
 
 Een computational graph is eigenlijk een flow chart; het volgende voorbeeld in **figuur 1** is de berekeningsgrafiek voor een eenvoudige berekening: z = d x c = (a + b) x c.
 
-![Figuur 1: een voorbeeld van een eenvoudige graph](./assets/images/execution_graph.png "Figuur 1: een voorbeeld van een eenvoudige graph")
+![Figuur 1: een voorbeeld van een eenvoudige graph](./assets/images/execution.png "Figuur 1: een voorbeeld van een eenvoudige graph")
 
 Figuur 1: een voorbeeld van een eenvoudige graph
 
@@ -62,7 +62,7 @@ Uiteindelijk kan een neuraal netwerk worden vergeleken met een samengestelde fun
 
 Het is handig om een neuraal netwerk voor te stellen als een Computational Graph (computergrafiek), dat wil zeggen, in termen van gegevens die door het netwerk stromen.
 
-![Figuur 2: het neurale netwerk voorgesteld als een Computational Graph](./assets/images/computational_graph.png "Figuur 2: een neuraal netwerk voorgesteld als Computational Graph")
+![Figuur 2: het neurale netwerk voorgesteld als een Computational Graph](./assets/images/computational.png "Figuur 2: een neuraal netwerk voorgesteld als Computational Graph")
 
 Figuur 2: het neurale netwerk voorgesteld als Computational Graph
 
@@ -430,7 +430,7 @@ Met de linux opdracht `tensorboard --logdir=neural_network1' wordt de visuele vo
 
 Via Tensorboard wordt volgende visuele voorstelling van voorbeeld 6 gegenereerd (zie **figuur 8**): 
 
-![Figuur 8: Tensorboard visualisatie van voorbeeld 6](./assets/images/neural_network1.png "Figuur 8: Tensorboard visualisatie van voorbeeld 6")
+![Figuur 8: Tensorboard visualisatie van voorbeeld 6](./assets/images/nn.png "Figuur 8: Tensorboard visualisatie van voorbeeld 6")
 
 Figuur 8: Tensorboard visualisatie van voorbeeld 6
 

@@ -71,9 +71,9 @@ Huidig ​​onderzoek naar reinforcement learning is zeer interdisciplinair en 
 
 De volgende afbeelding vat de drie soorten leren samen, met de bijbehorende problemen die moeten worden aangepakt:
 
-![Figuur 1: types van leren en gerelateerde problemen](./assets/images/types_of_learning_problems.png "Figuur 1: types van leren en gerelateerde problemen")
+![Figuur 1: types van leren en gerelateerde problemen](./assets/images/learning.png "Figuur 1: types van leren en gerelateerde problemen")
 
-<p align="center">Figuur 1: types van leren en gerelateerde problemen</p>
+Figuur 1: types van leren en gerelateerde problemen
 
 <a name="what_is_deep_learning"></a>
 
@@ -102,7 +102,7 @@ Meer precies worden de lagen als volgt opgebouwd:
 
 In **figuur 2** wordt de visuele weergave van het proces weergegeven:
 
-![Figuur 2: visuele weergave van het proces](./assets/images/visual_presentation_process.png "Figuur 2: visuele weergave van het proces")
+![Figuur 2: visuele weergave van het proces](./assets/images/visual.png "Figuur 2: visuele weergave van het proces")
 
 Figuur 2: visuele weergave van het proces van gezichtsherkenning
 
@@ -126,9 +126,9 @@ Zoals in **figuur 3** wordt weergegeven, bestaat een biologisch neuron uit het v
 
 Zo ziet een biologisch neuron-model eruit:
 
-![Figuur 3: model van een neurologisch neuron](./assets/images/model_biological_neuron.png "Figuur 3: model van een biologisch neuron")
+![Figuur 3: model van een neurologisch neuron](./assets/images/neuron.png "Figuur 3: model van een biologisch neuron")
 
-<p align="center">Figuur 3: model van een biologisch neuron</p>
+Figuur 3: model van een biologisch neuron
 
 De neuronenactiviteit wisselt af tussen twee fasen: het verzenden van het signaal (actieve toestand) en rust/ontvangst van signalen van andere neuronen (inactieve toestand).
 
@@ -148,9 +148,9 @@ Vergelijkbaar met het biologische neuron, bestaat het articiële neuron uit het 
 
 Volgende afbeelding geeft het kunstmatige neuron weer:
 
-![Figuur 4: model van een articificeel neuron](./assets/images/artificial_neuron_model.png "Figuur 4: model van een artificieel neuron")
+![Figuur 4: model van een articificeel neuron](./assets/images/artificial.png "Figuur 4: model van een artificieel neuron")
 
-<p align="center">Figuur 4: model van een artificieel neuron</p>
+Figuur 4: model van een artificieel neuron
 
 De uitgang of het signaal waardoor het neuron zijn activiteit extern uitstuurt, wordt berekend door de activeringsfunctie, ook wel de overdrachtsfunctie genoemd, toe te passen op de gewogen som van de ingangen. Deze functies hebben een dynamiek tussen -1 en +1, of tussen 0 en 1.
 
@@ -171,7 +171,7 @@ In **figuur 5** worden enkele activeringsfuncties voorgesteld:
 
 ![Figuur 5: voorbeelden van activeringsfuncties](./assets/images/activation.png "Figuur 5: voorbeelden van activeringsfuncties")
 
-<p align="center">Figuur 5: voorbeelden van activeringsfuncties</p>
+Figuur 5: voorbeelden van activeringsfuncties
 
 Het netwerk en vervolgens de gewichten in de activeringsfuncties zullen worden getraind. Aangezien de selectie van de activeringsfunctie een belangrijke taak is bij de implementatie van de netwerkarchitectuur, wijzen onderzoeken op marginale verschillen in resultaat als de trainingsfase correct wordt uitgevoerd.
 
@@ -215,7 +215,7 @@ In de wiskunde is de gradiënt van een scalair veld een reële functie van versc
 
 De gradiënt G van de foutfunctie E geeft de richting waarin de foutfunctie met de huidige waarden een steilere helling heeft. Dus om E te verlagen moeten we enkele kleine stappen in de tegenovergestelde richting  (-G) maken (zie **figuur 6**).
 
-![Figuur 6: Gradient Descent Procedure](./assets/images/gradientdescentprocedure.png "Figuur 6: Gradient Descent Procedure")
+![Figuur 6: Gradient Descent Procedure](./assets/images/gradient.png "Figuur 6: Gradient Descent Procedure")
 
 Figuur 6: Gradient Descent Procedure
 
@@ -231,7 +231,7 @@ Een alternatieve benadering en de snelste van de gradiënt daling procedures is 
 
 In SGD gebruiken we slechts één trainingsvoorbeeld uit de trainingsset om de update uit te voeren voor een parameter in een bepaalde iteratie. Hier komt de term stochastisch voort uit het feit dat de gradiënt op basis van één enkele trainingssteekproef een stochastische benadering is van de werkelijke kostengradiënt. Vanwege zijn stochastische aard is het pad naar het  kostenminimum niet direct, zoals in GD, maar kan het zigzaggen als we het kostenoppervlak in een 2D-ruimte visualiseren (zie **figuur 7**).
 
-![Figuur 7: Gradient Descent versus Stochastic Gradient Descent](./assets/images/gd_versus_sgd.png "Figuur 7: Gradient Descent versus Stochastic Gradient Descent")
+![Figuur 7: Gradient Descent versus Stochastic Gradient Descent](./assets/images/sdg.png "Figuur 7: Gradient Descent versus Stochastic Gradient Descent")
 
 Figuur 7: Gradient Descent versus Stochastic Gradient Descent
 
