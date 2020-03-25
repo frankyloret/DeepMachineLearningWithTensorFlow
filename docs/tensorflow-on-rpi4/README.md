@@ -18,27 +18,27 @@ title: Tensorflow_on_RPi4
 Om Tensorflow en Tensorboard op de Raspberry Pi 4 te installeren, worden volgende commando's vanuit de terminal uitgevoerd:
 
 1. Update alle RPi4 packages:
-```linux
+```
 sudo apt update
 ```
 
 2. Installeer Python 3:
-```linux
+```
 sudo apt install python3-dev python3-pip
 ```
 
 3. Installeer libatlas-base-dev:
-```linux
+```
 sudo install -y libatlas-base-dev
 ```
 
 4. Installeer Tensorflow:
-```linux
+```
 pip3 install --user --upgrade tensorflow
 ```
 
 5. Installeer Tensorboard via Torch:
-```linux
+```
 sudo pip install torch
 ```
 <a name="tensorflow_programma"></a>
