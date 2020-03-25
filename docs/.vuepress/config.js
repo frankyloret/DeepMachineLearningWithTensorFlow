@@ -7,7 +7,11 @@ module.exports = {
       { text: 'VIVES', link: 'https://www.vives.be' },
       { text: 'License', link: '/LICENSE.md' },
     ],
-    sidebar: [['/', 'Home'], ['/first-look-at-tensorflow/', 'First Look at TensorFlow']],
+    sidebar: [
+      ['/', 'Home'],
+      ['/first-look-at-tensorflow/', 'First Look at TensorFlow'],
+      ['/tensorflow-on-rpi4/', 'Tensorflow_on_RPi4']
+    ],
     repo: 'https://github.com/frankyloret/DeepMachineLearningWithTensorFlow',
     docsDir: 'docs',
     docsBranch: 'master'
