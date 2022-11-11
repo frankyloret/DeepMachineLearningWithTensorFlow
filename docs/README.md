@@ -138,7 +138,7 @@ De overgang van de ene fase naar de andere wordt veroorzaakt door de externe sti
 
 ## Het artificiële neuron
 
-Vergelijkbaar met het biologische neuron, bestaat het articiële neuron uit het volgende:
+Vergelijkbaar met het biologische neuron, bestaat het artificiële neuron uit het volgende:
 
 * Eén of meer binnenkomende verbindingen, met als taak numerieke signalen van andere neuronen te verzamelen; elke verbinding krijgt een gewicht toegewezen dat zal worden gebruikt om elk verzonden signaal in rekening te brengen.
 
