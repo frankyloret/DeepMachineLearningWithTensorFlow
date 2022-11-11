@@ -33,7 +33,7 @@ De uitdaging van machine learning is om een computer te laten leren hoe automati
  
   * **Testing data**: dit wordt alleen gebruikt voor het evalueren van de prestaties van het model op nog niet geëvalueerde data.
   
-De leertheorie gebruikt wiskundige hulpmiddelen, die zijn afgeleid van de **waarschijnlijkheidstheorie** en de **informatietheorie**. Hiermee kunt u de optimaliteit van sommige methiden ten opzichte van andere beoordelen.
+De leertheorie gebruikt wiskundige hulpmiddelen, die zijn afgeleid van de **waarschijnlijkheidstheorie** en de **informatietheorie**. Hiermee kunt u de optimaliteit van sommige methoden ten opzichte van andere beoordelen.
 
 Er zijn in principe drie leerparadigma's die kort zullen worden besproken:
 
