@@ -106,7 +106,7 @@ In **figuur 2** wordt de visuele weergave van het proces weergegeven:
 
 Figuur 2: visuele weergave van het proces van gezichtsherkenning
 
-<a name="neural_networks></a> 
+<a name="neural_networks"></a> 
 
 ## Neurale netwerken
 
